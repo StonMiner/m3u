@@ -10,4 +10,5 @@ maybe its not the best of the best but it certaintly works!
 
 #Installation
 Heres how to compile it:
+
 ```gcc -O3 main.c -o m3u```
